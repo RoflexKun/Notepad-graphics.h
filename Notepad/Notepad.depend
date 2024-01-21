@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1705488600 source:c:\users\razvan\desktop\notepad\notepad\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<winbgim.h>
+	<fstream>
+	<shlobj.h>
+	<conio.h>
+	<dos.h>
+

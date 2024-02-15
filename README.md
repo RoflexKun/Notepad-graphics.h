@@ -11,4 +11,7 @@ The features of this project are:
 5. Saving and restoring the modified file in the editor, in a text file.
 6. Selection, copying, and pasting functions.
 7. Search functions in the text file. (Displaying the number of the line)
-8. A working scrollbar. (I mentioned this, because in graphics.h you need to simulate a scrollbar, meaning that we done it from scratch)
+8. A working scrollbar. (I mentioned this, because in graphics.h you need to simulate a scrollbar, meaning that we did it from scratch)
+
+------------------------------
+Presentation Video: https://www.youtube.com/watch?v=T9St32FeOn0
